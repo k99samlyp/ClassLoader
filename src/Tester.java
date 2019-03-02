@@ -14,4 +14,6 @@ public class Tester {
     volatile int r = 680;
 
     String g = "123";
+
+    String tf = "celeronD";
 }
