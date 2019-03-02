@@ -24,4 +24,7 @@ public class Tester {
     String mem = "kingston";
 
     boolean mk = false;
+    transient int anInt = 9;
+
+    boolean mk = true;
 }
