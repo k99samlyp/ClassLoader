@@ -16,4 +16,6 @@ public class Tester {
     String g = "123";
 
     String tf = "celeronD";
+
+    String mem = "kingston";
 }
