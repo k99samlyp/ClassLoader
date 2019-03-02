@@ -26,5 +26,7 @@ public class Tester {
     boolean mk = false;
     transient int anInt = 9;
 
+    transient int anInt1 = 9;
+
     boolean mk = true;
 }
