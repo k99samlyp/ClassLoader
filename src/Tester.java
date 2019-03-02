@@ -23,5 +23,5 @@ public class Tester {
 
     String mem = "kingston";
 
-    boolean mk = true;
+    boolean mk = false;
 }
