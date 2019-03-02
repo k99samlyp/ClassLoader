@@ -13,5 +13,5 @@ public class Tester {
 
     volatile int r = 680;
 
-    String g = "";
+    String g = "123";
 }
