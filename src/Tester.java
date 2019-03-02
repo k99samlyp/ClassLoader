@@ -9,6 +9,7 @@ public class Tester {
 
     int age = 9;
 
-    int y = 5;
+    //yyyy
 
+    volatile int r = 680;
 }
