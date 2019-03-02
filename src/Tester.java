@@ -15,6 +15,10 @@ public class Tester {
 
     String g = "123";
 
+    int yyy = 9800;
+
+
+
     String tf = "celeronD";
 
     String mem = "kingston";
