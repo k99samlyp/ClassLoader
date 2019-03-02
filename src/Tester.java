@@ -22,4 +22,6 @@ public class Tester {
     String tf = "celeronD";
 
     String mem = "kingston";
+
+    boolean mk = true;
 }
