@@ -9,4 +9,6 @@ public class Tester {
 
     int age = 9;
 
+    int x = 1;
+
 }
