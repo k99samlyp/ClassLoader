@@ -12,4 +12,6 @@ public class Tester {
     //yyyy
 
     volatile int r = 680;
+
+    String g = "";
 }
