@@ -7,5 +7,6 @@ public class Tester {
 
     private int a;
 
-    private String b;
+    //不要了
+
 }
