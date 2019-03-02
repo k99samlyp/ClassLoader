@@ -4,4 +4,6 @@
  * 描述:
  */
 public class main {
+
+    private int a;
 }
