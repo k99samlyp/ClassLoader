@@ -3,7 +3,7 @@
  * with INTELLIJ IDEA on rmbp osx 10.11
  * 描述:
  */
-public class main {
+public class Tester {
 
     private int a;
 }
