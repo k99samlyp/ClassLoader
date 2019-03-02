@@ -7,6 +7,6 @@ public class Tester {
 
     private int a;
 
-    //不要了
+    int age = 9;
 
 }
