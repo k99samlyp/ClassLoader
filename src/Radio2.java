@@ -5,7 +5,7 @@
  */
 public interface Radio2 {
 
-    default int rrr(){
-        return 1;
-    }
+//    default int rrr(){
+//        return 1;
+//    }
 }
